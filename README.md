@@ -3,10 +3,13 @@
 
 ## How To Setup
 ```
-git clone 
+git clone https://github.com/admingrey/studydownunder.git
 ```
 ```
 cd studenttasktracker
+```
+```
+extract the static/static.rar to the folder static/
 ```
 ```
 python -m pip install virtualenv
