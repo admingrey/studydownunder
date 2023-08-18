@@ -7,8 +7,6 @@ git clone https://github.com/admingrey/studydownunder.git
 ```
 ```
 cd studenttasktracker
-```
-```
 extract the static/static.rar to the folder static/
 ```
 ```
